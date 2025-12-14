@@ -2,7 +2,7 @@ import random
 import string
 
 print('Welcome to Word List Generator!')
-
+# Created by roshan choudhury
 first_name = input('Enter victim first name: ').lower()
 last_name = input('Enter victim last name: ').lower()
 dob = input('Enter victim date of birth (DD/MM/YYYY): ').lower()
@@ -66,5 +66,6 @@ word_list = list(set(word_list))[:num_passwords]
 with open('generated_wordlist.txt', 'w') as f:
     for word in word_list:
         f.write(word + '\n')
+
 
 print(f'Generated {len(word_list)} words and saved to generated_wordlist.txt')
