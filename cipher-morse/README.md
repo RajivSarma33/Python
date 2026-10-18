@@ -4,7 +4,7 @@ Encrypt a message with a real, modern cipher — then translate the ciphertext i
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Tests](https://github.com/YOUR_USERNAME/cipher-morse/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/cipher-morse/actions/workflows/tests.yml)
+[![Tests](https://github.com/RajivSarma33/cipher-morse/actions/workflows/tests.yml/badge.svg)](https://github.com/RajivSarma33/cipher-morse/actions/workflows/tests.yml)
 
 ![CipherMorse screenshot](assets/screenshot.png)
 
